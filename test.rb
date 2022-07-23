@@ -1,6 +1,3 @@
 this line is added for updating
-<<<<<<< HEAD
-hello
+hello 63c4173 (modified)
 
-=======
->>>>>>> 63c4173 (modified)
